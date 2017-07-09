@@ -8,6 +8,10 @@
 .externalNativeBuild
 
 
-app/build/generated/source/apt/debug/sample/room/operando/os/com/roomsample/UserDao_Impl.java
-
-app/build/generated/source/apt/debug/sample/room/operando/os/com/roomsample/AppDatabase_Impl.java
+!app/build/
+app/build/*
+!app/build/generated/
+app/build/generated/*
+!app/build/generated/source
+!app/build/generated/source/apt/debug/sample/room/operando/os/com/roomsample/UserDao_Impl.java
+!app/build/generated/source/apt/debug/sample/room/operando/os/com/roomsample/AppDatabase_Impl.java
