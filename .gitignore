@@ -1,0 +1,13 @@
+*.iml
+.gradle
+/local.properties
+/.idea
+.DS_Store
+/build
+/captures
+.externalNativeBuild
+
+
+app/build/generated/source/apt/debug/sample/room/operando/os/com/roomsample/UserDao_Impl.java
+
+app/build/generated/source/apt/debug/sample/room/operando/os/com/roomsample/AppDatabase_Impl.java
